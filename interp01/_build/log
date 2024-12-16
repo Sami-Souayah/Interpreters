@@ -1,0 +1,17 @@
+# dune exec interp01 -- examples/13.ml
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Shared cache location: /Users/sami/.cache/dune/db
+# Workspace root:
+# /Users/sami/Desktop/CS320/cs320-fall-2024-private/assigns/interp01
+# Auto-detected concurrency: 8
+# Dune context:
+#  { name = "default"
+#  ; kind = "default"
+#  ; profile = Dev
+#  ; merlin = true
+#  ; fdo_target_exe = None
+#  ; build_dir = In_build_dir "default"
+#  ; instrument_with = []
+#  }
+$ /Users/sami/.opam/default/bin/ocamlc.opt -config > /var/folders/sd/flqk4dhs13vbtp9_285w979c0000gn/T/dune_285367_output
